@@ -17,17 +17,17 @@ To see Test Costs (donated by Peter Turney), please see the folder "Costs"
 #Features & Predictor:
 
 Only 14 attributes used:
-1. age
-2. sex
-3. cp
-4. trestbps
-5. chol
-6. fbs
-7. restecg
-8. thalach
-9. exang
-10. oldpeak
-11. slope
-12. ca
-13. thal
+1. age: age of the patient(years)
+2. sex: sex of the patient(M: Male,  F: Female)
+3. cp: chest pain type(TA: Typical Angina, ATA: Atypical Angina, NAP: Non-Anginal Pain, ASY: Asymptomatic)
+4. trestbps: resting blood pressure(#)
+5. chol: serum cholesterol in mg/dl(#)
+6. fbs: fasting blood sugar > 120 mg/dl(Binary)(1=true; 0=false)
+7. restecg: resting electrocardiography results(values 0,1,2)
+8. thalach: maximum heart rate achieved (#)
+9. exang: exercise induced angina (binary) (1 = yes; 0 = no)
+10. oldpeak: oldpeak = ST (Numeric value measured in depression)
+11. slope: of the peak exercise ST segment (Ordinal)(Value 1: up sloping , Value 2: flat , Value 3: down sloping)
+12. ca: number of major vessels (0–3, Ordinal) colored by fluoroscopy
+13. thal: maximum heart rate achieved — (Ordinal): 3 = normal; 6 = fixed defect; 7 = reversible defect
 14. num (the predicted attribute)
