@@ -1,4 +1,3 @@
 # Group-Project
 hii idk how this works but i'll figure it out
-
-https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction <- link to the dataset on kaggle
+https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.cleveland.data 
