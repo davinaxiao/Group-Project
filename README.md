@@ -29,3 +29,7 @@ Only 14 attributes used:
 12. ca: number of major vessels (0–3, Ordinal) colored by fluoroscopy
 13. thal: maximum heart rate achieved — (Ordinal): 3 = normal; 6 = fixed defect; 7 = reversible defect
 14. num (the predicted attribute)
+
+This project uses data from the Cleveland Clinic Foundation retreived from https://archive.ics.uci.edu/ml/datasets/Heart+Disease. 
+
+the predicted attribte is the "num" column which indicates the diagnosis of heart disease. According to the data description, a value of 0 means not likely to have heart disease; any value that is not 0 means patient is likely to have heart disease. To change the predicted attribute to be catagorical, the ifelse function was used to convert any non-zero numbers to 1. The final result of the prediction is now either 0 (not likely to have heart disease) or 1 (likely to have heart disease). 
