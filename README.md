@@ -6,9 +6,14 @@ Heart disease has been the leading cause of death in the United States since 195
 
 # Methods
 
+# Expected outcomes and significance:
+What do you expect to find?
+What impact could such findings have?
+What future questions could this lead to?
+
+We expect that patients with high cholesterol and blood pressure levels are more likely to have heart disease than those with lower levels. We believe that age will also significantly affect our results as health issues are more common in older adults. This leads us to...
 
 # Features & Predictor:
-
 Only 14 attributes used:
 1. age: age of the patient(years)
 2. sex: sex of the patient(M: Male,  F: Female)
