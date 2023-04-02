@@ -2,7 +2,7 @@
 https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.cleveland.data 
 
 
-#proposal feedback
+Proposal feedback
 - The proposal seems to lack a specific research question or hypothesis that the project aims to solve. Age, Cholesterol, Blood Pressure Levels are three random health indicator. When it is a project question you should find a more general question to solve like " Heart diseases identification using the most significant heart health indicators" - For EDA a summary of statistics would be helpful. - Nothing about modeling methods was mentioned, including test-train splitting, data preprocessing, selection of k using cross-validation, or evaluating the prediction. - Results statements are general, and any specific steps to achieve these goals have not been provided. - You should specify the outcomes rather than make general statements.
 
 
