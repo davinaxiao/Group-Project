@@ -1,6 +1,11 @@
 # Group-Project - Heart Disease Prediction
 https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.cleveland.data 
 
+
+#proposal feedback
+- The proposal seems to lack a specific research question or hypothesis that the project aims to solve. Age, Cholesterol, Blood Pressure Levels are three random health indicator. When it is a project question you should find a more general question to solve like " Heart diseases identification using the most significant heart health indicators" - For EDA a summary of statistics would be helpful. - Nothing about modeling methods was mentioned, including test-train splitting, data preprocessing, selection of k using cross-validation, or evaluating the prediction. - Results statements are general, and any specific steps to achieve these goals have not been provided. - You should specify the outcomes rather than make general statements.
+
+
 # Introduction
 Heart disease has been the leading cause of death in the United States since 1950. The term heart disease describes a range of conditions that could affect the heart. The most common heart diseases are coronary heart disease, peripheral artery disease, and aortic disease. Studies show that the leading risk factors for these diseases include high blood pressure and cholesterol. Specific medical conditions like unhealthy diets, physical inactivity, and smoking tend to put an individual at a higher risk. We aim to develop an accurate model to predict whether an individual has heart disease based on their cholesterol levels, heart rate and age. To approach this question, we will use three predictor values, heart rate, cholesterol levels, and age, from the heart data set containing 76 attributes. Hence, we would classify an individual as either positive or negative for Heart Disease.
 
